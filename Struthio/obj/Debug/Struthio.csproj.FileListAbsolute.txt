@@ -1,0 +1,19 @@
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\Struthio.exe.config
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\Struthio.exe
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\Struthio.pdb
+C:\Users\Rijesh\Source\Struthio\Struthio\obj\Debug\Struthio.csprojResolveAssemblyReference.cache
+C:\Users\Rijesh\Source\Struthio\Struthio\obj\Debug\Struthio.csproj.CoreCompileInputs.cache
+C:\Users\Rijesh\Source\Struthio\Struthio\obj\Debug\Struthio.exe
+C:\Users\Rijesh\Source\Struthio\Struthio\obj\Debug\Struthio.pdb
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\GeneticSharp.Domain.dll
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\GeneticSharp.Extensions.dll
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\GeneticSharp.Infrastructure.Framework.dll
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\GeneticSharp.Infrastructure.Threading.dll
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\NCalc.dll
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\SmartThreadPool.dll
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\GeneticSharp.Infrastructure.Framework.xml
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\GeneticSharp.Infrastructure.Threading.pdb
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\SmartThreadPool.pdb
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\Geodesy.dll
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\Geodesy.xml
+C:\Users\Rijesh\Source\Struthio\Struthio\bin\Debug\Spatial Reference.dll
